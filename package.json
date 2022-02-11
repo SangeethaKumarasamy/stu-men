@@ -1,0 +1,19 @@
+{
+  "name": "student-mentor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",  
+ "scripts": {
+    "test": "stu_mentor",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Sangeetha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "react": "^17.0.2"
+  }
+}
